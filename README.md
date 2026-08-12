@@ -2,6 +2,7 @@
 Code for the paper ["How Reward and the Elimination of Dependence Thereon Lead Evolution to High-Bandwidth Learning"](https://direct.mit.edu/artl/article-abstract/32/1/62/137942/How-Reward-and-the-Elimination-of-Dependence).
 
 Demo video:
+
 [![Demo video](https://img.youtube.com/vi/PtPLcm-rGek/0.jpg)](https://www.youtube.com/watch?v=PtPLcm-rGek)
 
 Code for the Model 1 experiments (2D navigation, CPU implementation) can be found [here](https://github.com/sovvel/dal).
