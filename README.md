@@ -11,5 +11,5 @@ Code for the Model 2 experiments (3D locomotion, GPU implementation) will appear
 
 Paper reference:
 Solvi Arnold, Reiji Suzuki, Takaya Arita (2026),
-How Reward and the Elimination of Dependence Thereon Lead Evolution to High-Bandwidth Learning,
+How Reward and the Elimination of Dependence Thereon Lead Evolution to High-Bandwidth Learning,
 Artificial Life 32(1): 62-98, [DOI: 10.1162/ARTL.a.464](https://doi.org/10.1162/ARTL.a.464)
